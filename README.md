@@ -106,7 +106,6 @@ Mesmo sendo simples, esta API ensina conceitos reais de manipulação de dados, 
 * A API salva os dados em memória ou arquivo local, portanto os dados persistem apenas no mesmo ambiente de execução.
 * Sempre forneça dados JSON válidos ao adicionar ou atualizar tarefas.
 
-```
 
----
+
 
