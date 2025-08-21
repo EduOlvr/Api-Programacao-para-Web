@@ -24,7 +24,7 @@ O objetivo é praticar conceitos de APIs RESTful, métodos HTTP, manipulação d
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/EduOlvr/Api-Programacao-para-Web.git
 ````
 
 2. Crie e ative um ambiente virtual:
